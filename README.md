@@ -7,4 +7,4 @@
 ### CSVSearchClientOverlap
 - Analyzes program entry/exit date ranges to establish overlaps.
 - Provides extensive feedback on overlaps, including which rows overlap, how they overlap(overlap type), and exact dates for when overlaps start and end.
-- Multiple overlaps occuring with a single row are displayed in output file as "copy" rows in order to establish all overlaps within a single program run.
+- Multiple overlaps occurring with a single row are displayed in output file as "copy" rows in order to establish all overlaps within a single program run.
